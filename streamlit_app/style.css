@@ -1,0 +1,81 @@
+/* streamlit_app/style.css */
+
+/* Style containers to look like cards */
+div[data-testid="stVerticalBlock"] > div[style*="flex-direction: column;"] > div[data-testid="stVerticalBlock"] {
+    border: 1px solid #e6e6e6; /* Light grey border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 25px; /* Add some padding inside the card */
+    margin-bottom: 20px; /* Add space below each card */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); /* Subtle shadow */
+    background-color: #ffffff; /* White background for card */
+}
+
+/* Style expander headers */
+div[data-testid="stExpander"] summary {
+    font-size: 1.1em; /* Slightly larger font */
+    font-weight: 600; /* Bolder */
+    color: #0a3d62; /* Dark blue color */
+}
+
+/* Style metric labels */
+div[data-testid="stMetricLabel"] {
+    color: #555; /* Dark grey label */
+    font-size: 0.95em;
+}
+
+/* Style metric values */
+div[data-testid="stMetricValue"] {
+    font-size: 2.2em;
+    font-weight: 600;
+    color: #0a3d62; /* Dark blue value */
+}
+
+/* Style subheaders */
+h2 { /* Targets st.subheader */
+    color: #1a5276; /* Slightly lighter blue */
+    border-bottom: 2px solid #aed6f1; /* Light blue underline */
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+h1 { /* Targets st.title */
+    color: #0a3d62; /* Dark blue for main title */
+}
+
+/* Improve button appearance slightly (limited options without custom components) */
+div[data-testid="stButton"] > button {
+    border-radius: 20px;
+    padding: 8px 20px;
+    border: 1px solid #1a5276;
+    background-color: #eaf2f8; /* Light blue background */
+    color: #1a5276; /* Darker blue text */
+    font-weight: 600;
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth hover effect */
+}
+
+div[data-testid="stButton"] > button:hover {
+    background-color: #1a5276; /* Dark blue on hover */
+    color: white; /* White text on hover */
+    border: 1px solid #0a3d62;
+}
+
+/* Style success message */
+div[data-testid="stSuccess"] {
+    background-color: #e8f8f5;
+    border-left: 5px solid #1abc9c; /* Teal color */
+}
+/* Style info message */
+div[data-testid="stInfo"] {
+    background-color: #eaf2f8;
+    border-left: 5px solid #3498db; /* Blue color */
+}
+/* Style warning message */
+div[data-testid="stWarning"] {
+    background-color: #fef9e7;
+    border-left: 5px solid #f39c12; /* Orange color */
+}
+/* Style error message */
+div[data-testid="stError"] {
+    background-color: #fdedec;
+    border-left: 5px solid #e74c3c; /* Red color */
+}

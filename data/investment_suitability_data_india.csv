@@ -1,0 +1,3001 @@
+RiskProfile,InvestmentType,InvestmentVolRange,InvestmentRetRange,Suitability
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,PPF,Very Low,Low,Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,MidSmallCapMF,Very High,Very High,Not Suitable
+Conservative,LargeCapMF,High,High,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,IndexFund,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,DirectEquity,Very High,Very High,Not Suitable
+Conservative,DebtMF,Low,Low,Suitable
+Conservative,BalancedMF,Medium,Medium,Not Suitable
+Conservative,FD,Very Low,Very Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,IndexFund,Medium,Medium,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,BalancedMF,Medium,Medium,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,DirectEquity,Very High,Very High,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,MidSmallCapMF,Very High,Very High,Not Suitable
+Moderate,DebtMF,Low,Low,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,LargeCapMF,High,High,Suitable
+Moderate,PPF,Very Low,Low,Not Suitable
+Moderate,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,BalancedMF,Medium,Medium,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,DebtMF,Low,Low,Not Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,DirectEquity,Very High,Very High,Suitable
+Aggressive,MidSmallCapMF,Very High,Very High,Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable
+Aggressive,LargeCapMF,High,High,Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,PPF,Very Low,Low,Not Suitable
+Aggressive,FD,Very Low,Very Low,Not Suitable
+Aggressive,IndexFund,Medium,Medium,Suitable

@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+sqlalchemy
+passlib[bcrypt]
+# Add other specific dependencies as needed:
+# xgboost
+# shap
+# psycopg2-binary # If using PostgreSQL
