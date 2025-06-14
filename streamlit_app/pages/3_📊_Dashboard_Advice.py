@@ -35,8 +35,7 @@ if st.button("🚀 Get My Financial Advice"):
         advice_result = advice_service.generate_advice(user_id)
 
         if advice_result and "error" not in advice_result:
-            # --- Display Financial Assessment ---
-            with st.container(): # Use container for styling
+            with st.container(): # Card-like container for assessment
                 st.subheader("📈 Your Financial Assessment")
                 col1, col2 = st.columns(2)
                 risk_profile = advice_result.get("risk_profile", "N/A")
@@ -45,20 +44,18 @@ if st.button("🚀 Get My Financial Advice"):
                      profile_info = db_service.get_profile(user_id)
                      st.metric(label="Primary Goal", value=profile_info.get("PrimaryGoal", "N/A") if profile_info else "N/A")
 
-                # --- *** MODIFIED: Display BOTH Risk Explanations *** ---
-                st.markdown("**Understanding Your Risk Profile:**")
-                # Display Static Explanation First
-                st.write(advice_result.get("risk_explanation_simple", "*Explanation not available.*"))
+                # --- Display BOTH Risk Explanations ---
+                st.markdown("#### Understanding Your Risk Profile:") # Slightly smaller subheader
+                # Static Explanation First
+                st.markdown(advice_result.get("risk_explanation_simple", "*General explanation unavailable.*"))
                 st.markdown("---") # Separator
-                # Display Detailed SHAP Explanation in an Expander
-                with st.expander("View Detailed Factors (AI Analysis)"):
-                    st.markdown(advice_result.get("risk_explanation_detailed", "*Detailed factor analysis unavailable.*"))
-                # --- *** End of Modification *** ---
+                # Detailed SHAP Explanation in an Expander
+                with st.expander("View Detailed Factors (AI Analysis - Why this profile?)", expanded=False): # Default collapsed
+                    st.markdown(advice_result.get("risk_explanation_detailed_shap", "*Detailed factor analysis unavailable.*"))
 
-            st.markdown("---") # Separator between sections
+            st.markdown("<br>", unsafe_allow_html=True) # Add some vertical space
 
-            # --- Display Investment Recommendations (Keep as before) ---
-            with st.container():
+            with st.container(): # Card-like container for investments
                 st.subheader("💡 Investment Recommendations")
                 investment_recs = advice_result.get("investment_recommendations", [])
                 if not investment_recs: st.info("*No specific investment recommendations generated.*")
@@ -69,19 +66,20 @@ if st.button("🚀 Get My Financial Advice"):
                     num_cols = 2; cols = st.columns(num_cols); col_idx = 0
                     for rec in investment_recs:
                         with cols[col_idx % num_cols]:
-                            st.markdown(f"##### **{rec.get('investment', 'Unknown')}**")
-                            with st.expander("View Rationale", expanded=False): # Keep rationale collapsed by default
-                                st.markdown(rec.get('explanation', '*Detailed explanation not available.*'))
+                            # Using a "card" like structure within columns
+                            st.markdown(f"**{rec.get('investment', 'Unknown')}**")
+                            # Investment rationale comes from prediction.py's simplified SHAP formatter
+                            st.markdown(rec.get('explanation', '*Detailed rationale unavailable.*'))
+                            if col_idx % num_cols != num_cols -1 : # Add space if not the last in row
+                                st.markdown("<br>", unsafe_allow_html=True)
                         col_idx += 1
 
-            st.markdown("---") # Separator between sections
+            st.markdown("<br>", unsafe_allow_html=True)
 
-            # --- Display Planning Recommendation Section (Keep as before) ---
-            with st.container():
+            with st.container(): # Card-like container for planning
                 st.subheader("🧭 Personalized Planning Actions (Placeholder)")
                 planning_rec = advice_result.get("planning_recommendation")
                 if planning_rec:
-                     # Keep expander collapsed by default maybe
                      with st.expander("View Suggested Actions & Rationale", expanded=False):
                          st.markdown("**Suggested Actions:**")
                          action_list = planning_rec.get("actions", ["*Not available*"])
@@ -97,7 +95,6 @@ if st.button("🚀 Get My Financial Advice"):
 
         elif advice_result and "error" in advice_result: st.error(f"❌ Could not generate advice: {advice_result['error']}")
         else: st.error("❌ An unexpected error occurred.")
-
 else:
     st.markdown("Click the button above to get your latest financial assessment.")
 
