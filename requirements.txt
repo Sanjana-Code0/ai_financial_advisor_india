@@ -6,6 +6,11 @@ joblib
 sqlalchemy
 passlib[bcrypt]
 # Add other specific dependencies as needed:
+<<<<<<< HEAD
 # xgboost
 # shap
+=======
+ xgboost
+ shap
+>>>>>>> e5946a3eca64bec6f1079960f6ebc1a59da7b781
 psycopg2-binary # If using PostgreSQL
