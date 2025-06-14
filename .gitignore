@@ -144,8 +144,8 @@ cython_debug/
 # data/*.csv
 
 # Model files (usually too large for Git, use Git LFS or exclude)
-models/*.joblib
-models/*.zip
+# models/*.joblib
+# models/*.zip
 
 # Streamlit secrets
 .streamlit/secrets.toml
