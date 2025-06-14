@@ -1,32 +1,38 @@
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker, Session
+from sqlalchemy.orm import sessionmaker
 from contextlib import contextmanager
 
 # Import models AFTER Base is defined in db_models
 # Ensure db_models is importable from the current path
 try:
     # Assuming db_models.py is in the parent directory (streamlit_app/)
-    from db_models import User, UserProfile, DATABASE_URL, Base, engine, metadata
+    # when services is a package.
+    from ..db_models import User, UserProfile, Base, engine # Use relative import
 except ImportError:
-    print("Error importing db_models from db_service. Check structure/PYTHONPATH.")
-    # Handle this error appropriately, maybe exit or raise
-    raise
+    # Fallback for direct script execution (less common for structured apps)
+    # or if db_models is in the same directory as db_service (not the planned structure)
+    print("Warning: Relative import of db_models failed, trying direct import (db_service.py).")
+    from db_models import User, UserProfile, Base, engine
 
-# Create session factory
+
+# --- Create session factory (Define ONCE) ---
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
-# Ensure tables are created (idempotent call)
+# --- Ensure tables are created (idempotent call - Define ONCE) ---
 def init_db():
-    print("Initializing database and creating tables...")
+    """Initializes the database and creates tables if they don't exist."""
+    # Use the print message appropriate for your target (cloud or local)
+    # If DATABASE_URL in db_models.py points to cloud, this will act on it.
+    print("Initializing database and creating tables (will act on configured DB)...")
     try:
         Base.metadata.create_all(bind=engine)
-        print("Database initialization complete.")
+        print("Database schema initialization complete.")
     except Exception as e:
-        print(f"Error during DB initialization: {e}")
-        # Decide how critical this is - maybe raise the exception
-        raise
+        print(f"Error during DB schema initialization: {e}")
+        raise # Re-raise the error to make it visible
 
-# init_db() # Call this once when the app starts, e.g. in Home.py
+# Call init_db() from your main app script (e.g., Home.py) on startup, not here.
+# init_db()
+
 
 @contextmanager
 def get_db_session():
@@ -36,7 +42,7 @@ def get_db_session():
         yield db
         db.commit()
     except Exception as e:
-        print(f"DB Error: {e}") # Log the error
+        print(f"DB Transaction Error: {e}") # Log the error
         db.rollback()
         raise # Re-raise the exception so calling code knows about it
     finally:
@@ -51,11 +57,10 @@ def create_user(username: str, hashed_password: str):
         db.add(db_user)
         db.flush()  # Make the DB assign the ID now
         user_id = db_user.id # Get the ID while session is active
-        print(f"User '{username}' created with ID {user_id}.")
-        # Return only the ID, which is safe data
+        print(f"User '{username}' created successfully with ID {user_id}.")
+        # Return only the ID, which is safe data and doesn't cause DetachedInstanceError
         return user_id
 
-# CORRECTED FUNCTION: Returns needed data as a dictionary, not the ORM object
 def get_user_auth_data_by_username(username: str):
     """Fetches essential user data for authentication as a dictionary."""
     with get_db_session() as db:
@@ -66,23 +71,23 @@ def get_user_auth_data_by_username(username: str):
                 "id": user.id,
                 "username": user.username,
                 "hashed_password": user.hashed_password
-                # Add other fields needed immediately if necessary
             }
             return user_data # Return the dictionary
         else:
             return None # User not found
 
-def get_user_by_id(user_id: int):
-     """Gets user ORM object - use result carefully to avoid detached errors."""
-     # Warning: Returning the full object can lead to DetachedInstanceError
-     # if accessed after the session closes. Consider returning a dict if needed elsewhere.
+def get_user_by_id(user_id: int): # Not currently used by other provided code, but can be kept
+     """
+     Gets user ORM object - use result carefully to avoid detached errors.
+     Prefer returning specific fields as a dict if possible.
+     """
      with get_db_session() as db:
         return db.query(User).filter(User.id == user_id).first()
 
 # --- Profile Functions ---
 def save_or_update_profile(user_id: int, profile_data: dict):
-    """Saves or updates a user's profile. Returns the profile dictionary."""
-    saved_profile_obj = None # To store the object before session closes
+    """Saves or updates a user's profile. Returns the saved/updated profile as a dictionary."""
+    returned_profile_dict = None
     with get_db_session() as db:
         db_profile = db.query(UserProfile).filter(UserProfile.user_id == user_id).first()
         if db_profile:
@@ -95,6 +100,7 @@ def save_or_update_profile(user_id: int, profile_data: dict):
             print(f"Updating profile for user_id: {user_id}")
         else:
             # Create new profile
+            # Filter to only include keys that are actual columns in UserProfile
             valid_keys = [c.name for c in UserProfile.__table__.columns if c.name not in ['id', 'user_id']]
             filtered_data = {k: v for k, v in profile_data.items() if k in valid_keys}
             db_profile = UserProfile(user_id=user_id, **filtered_data)
@@ -108,13 +114,12 @@ def save_or_update_profile(user_id: int, profile_data: dict):
         else:
              print(f"Warning: User with id {user_id} not found when trying to mark profile complete.")
 
-        db.flush() # Ensure data is flushed to DB
-        # Capture the state into a dictionary *before* session closes
-        saved_profile_obj = db_profile # Keep reference to object
-        profile_dict = {c.name: getattr(saved_profile_obj, c.name) for c in saved_profile_obj.__table__.columns} if saved_profile_obj else None
+        db.flush() # Ensure data is flushed to DB so all attributes are populated
+        # Convert the ORM object to a dictionary *before* the session closes
+        if db_profile: # Check if db_profile was successfully created/found
+            returned_profile_dict = {c.name: getattr(db_profile, c.name) for c in db_profile.__table__.columns}
 
-    # Return the dictionary created *before* the session closed
-    return profile_dict
+    return returned_profile_dict # Return the dictionary
 
 
 def get_profile(user_id: int):
