@@ -8,4 +8,4 @@ passlib[bcrypt]
 # Add other specific dependencies as needed:
 # xgboost
 # shap
-# psycopg2-binary # If using PostgreSQL
+psycopg2-binary # If using PostgreSQL
